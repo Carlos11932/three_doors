@@ -4,3 +4,4 @@ wich door will u go through?
 door1
 better_door2
 what is behind the door?
+there is a ghost
