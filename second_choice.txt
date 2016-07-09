@@ -1,0 +1,5 @@
+you are in a room with 3 doors
+
+wich door will u go through?
+door1
+better_door2
